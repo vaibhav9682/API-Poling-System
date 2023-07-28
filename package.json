@@ -1,0 +1,17 @@
+{
+  "name": "poling_system",
+  "version": "1.0.0",
+  "description": "Api based poling system",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vaibhav Dwivedi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.4.1"
+  }
+}
